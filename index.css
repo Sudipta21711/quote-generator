@@ -96,3 +96,33 @@ header .nav ul li a:hover{
 .quote-bar .btn:hover{
     letter-spacing: 2px;
 }
+header .menu{
+    background-color: rgb(240, 240, 240);
+    padding: 10px;
+    border-radius: 4px;
+    display: none;
+}
+header .menu:hover{
+    background-color: #fff;
+}
+header .menu h3{
+    color: rgb(0, 124, 124);
+}
+@media only screen and (max-width: 608px){
+    header .nav{
+        display: none;
+    }
+    header .menu{
+        display: block;
+    }
+    .quote-bar{
+       padding: 0;
+    }
+    body{
+        scroll-behavior: smooth;
+    }
+    .btn{
+        align-items: center;
+    }
+
+}
