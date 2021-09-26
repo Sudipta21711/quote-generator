@@ -34,7 +34,9 @@ header .nav ul li a{
     font-weight: 500;
     font-size: 1em;
     text-transform: uppercase;
+    transition: 0.5s;
 }
+
 header .nav ul li a:hover{
     color: rgb(0, 124, 124);
     text-decoration: overline;
