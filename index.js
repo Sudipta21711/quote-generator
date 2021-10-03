@@ -23,8 +23,34 @@ let quotes = [
     "Life is really simple, but we insist on making it complicated.",
     "Money and success don’t change people; they merely amplify what is already there.",
     "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-    "In the long run, the sharpest weapon of all is a kind and gentle spirit."
-
+    "In the long run, the sharpest weapon of all is a kind and gentle spirit.",
+    "Science is what you know. Philosophy is what you don't know.",
+    "If God did not exist, it would be necessary to invent Him.",
+    "There are a terrible lot of lies going about the world, and the worst of it is that half of them are true.",
+    "I think we consider too much the good luck of the early bird and not enough the bad luck of the early worm.",
+    "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "Beware; for I am fearless, and therefore powerful.",
+    "If I’m gonna tell a real story, I’m gonna start with my name.",
+    "I could agree with you but then we’d both be wrong.",
+    "There is no substitute for hard work.",
+    "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+    "Every child is an artist. The problem is how to remain an artist once he grows up.",
+    "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "Build your own dreams, or someone else will hire you to build theirs.",
+    "Whenever you find yourself on the side of the majority, it is time to pause and reflect",
+    "Stay hungry, stay foolish",
+    "Insanity: doing the same thing over and over again and expecting different results.",
+    "The successful warrior is the average man, with laser-like focus.",
+    "Don’t count the days, make the days count.",
+    "The journey of a thousand miles begins with one step.",
+    "Be yourself; everyone else is already taken.",
+    "The best things in life are free. The second best things are very expensive.",
+    "You miss 100 percent of the shots you never take.",
+    "Education is the most powerful weapon which you can use to change the world.",
+    "The weak can never forgive. Forgiveness is the attribute of the strong.",
+    "Life is a flower of which love is the honey.",
+    "It’s not how much you have that makes people look up to you, it’s who you are.",
+    "Little by little, one travels far.",
 ];
 let writer = [
     "Nelson Mandela",
@@ -51,7 +77,13 @@ let writer = [
     "Henry David Thoreau",
     "Will Smith",
     "Albert Einstein",
-    "Anne Frank"
+    "Anne Frank",
+    "Martin Luther King Jr",
+    "Oprah Winfrey",
+    "Shakespeare",
+    "Mark Twain",
+    "Henry Ford",
+    "Muhammad Ali",
 ];
 
 function getQuote() {
