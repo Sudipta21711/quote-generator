@@ -50,7 +50,8 @@ let quotes = [
     "The weak can never forgive. Forgiveness is the attribute of the strong.",
     "Life is a flower of which love is the honey.",
     "It’s not how much you have that makes people look up to you, it’s who you are.",
-    "Little by little, one travels far.",
+    "Little by little, one travels far.", 
+    "If you even dream of beating me you'd better wake up and apologize."
 ];
 let writer = [
     "Nelson Mandela",
@@ -110,6 +111,7 @@ let writer = [
     "Victor Hugo",
     "Elvis Presley",
     "J.R.R. Tolkien",
+    "Muhammad Ali"
 ];
 
 function getQuote() {
